@@ -16,7 +16,11 @@
     "plugins": [
       {
         "name": "next"
-      }
+      },
+      {
+        "types": ["monaco-editor"]
+      },
+      
     ],
     "paths": {
       "@/*": ["./src/*"]
